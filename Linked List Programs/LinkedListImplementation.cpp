@@ -71,5 +71,3 @@ int main(){
 		}
 	}while (ch!=5);
 }
-
-
